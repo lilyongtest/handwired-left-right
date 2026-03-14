@@ -1,5 +1,5 @@
 ## Keyboard Name
-- name
+- left-right
 
 ## Images
 
