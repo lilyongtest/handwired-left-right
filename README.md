@@ -2,6 +2,7 @@
 - left-right
 
 ## Images
+<img width="1271" height="953" alt="1773152262-" src="https://github.com/user-attachments/assets/9f089ef0-b321-49ee-90b3-26ac4aba40b8" />
 
 
 
@@ -21,15 +22,16 @@
 
 | Item | Description |
 |-----|-----|
-| Layout | Column-staggered |
-| Keys | 46 keys |
+| Layout | Row-staggered with ortholinear |
+| Keys | 50 keys |
 | Controller | RP2040-Zero |
 | Firmware | QMK |
 | Connection | USB-C |
-| Case | cardboard / lether  |
+| Case | cardboard |
 
 
 ## Layout
+<img width="817" height="236" alt="keyboard-layout (5)" src="https://github.com/user-attachments/assets/f4444bd2-d5af-4c4e-885b-500e5107c622" />
 
 
 
