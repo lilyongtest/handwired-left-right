@@ -2,7 +2,7 @@
 - left-right
 
 ## Images
-<img width="1271" height="953" alt="1773152262-" src="https://github.com/user-attachments/assets/9f089ef0-b321-49ee-90b3-26ac4aba40b8" />
+<img width="50%" height="50%" alt="1773152262-" src="https://github.com/user-attachments/assets/9f089ef0-b321-49ee-90b3-26ac4aba40b8" />
 
 
 
